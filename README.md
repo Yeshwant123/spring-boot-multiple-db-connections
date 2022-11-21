@@ -9,3 +9,9 @@ In this applicaton I configure two local databases for a Spring Boot app. I use 
  The only thing you have to do is to update the database connections on the **application.properties** file.
  <br>
  In the case that you want to use your own databases instead of the example ones in this porject, you have to change the beans names on the **Configuration** folder classes to the names of your databases, the repositories, and the controllers. 
+ 
+ 
+ 
+ 
+ http://localhost:8080/countries/
+ http://localhost:8080/actors/
