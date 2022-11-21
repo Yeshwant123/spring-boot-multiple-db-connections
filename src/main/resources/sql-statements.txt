@@ -1,0 +1,14 @@
+
+
+
+
+use sakila;
+desc actor;
+insert into actor(actor_id,first_name,last_name) values (1,'Test','test');
+
+
+use world;
+desc country;
+insert into country(Code,Capital,LocalName,Region) values (12,'Test','test','Region-test');
+
+
